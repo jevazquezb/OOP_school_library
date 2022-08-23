@@ -17,5 +17,5 @@ class Person
     of_age? || @parent_permission # true outweighs false
   end
 
-  private :is_of_age?
+  private :of_age?
 end
