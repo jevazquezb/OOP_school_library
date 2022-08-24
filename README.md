@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# OOP school library: add Person, Student and Teacher classes
+# OOP school library: decorate a class
 
-> In this part of the project, we started building our school library app. We implemented the classes to represent students and teachers.
+> In this part of the project, we implemented the "Decorator" design pattern to correct the names of people.
 
 ## Built With
 
