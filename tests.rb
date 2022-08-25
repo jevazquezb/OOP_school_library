@@ -1,7 +1,7 @@
+require './rental'
 require './person'
 require './student'
 require './classroom'
-require './rental'
 require './book'
 
 p 'Student-Classroom tests'
