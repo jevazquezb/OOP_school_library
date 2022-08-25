@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# OOP school library: decorate a class
+# OOP school library: set up associations
 
-> In this part of the project, we implemented the "Decorator" design pattern to correct the names of people.
+> In this part of the project, we added the Classroom, Book, and Rental classes, and created the corresponding associations.
 
 ## Built With
 
