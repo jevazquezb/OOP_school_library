@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# OOP school library: set up associations
+# OOP school library: add basic UI
 
-> In this part of the project, we added the Classroom, Book, and Rental classes, and created the corresponding associations.
+> In this part of the project, we created a form of UI for our school library app. This way it can be invoked as an executable and not something we use in IRB exclusively.
 
 ## Built With
 
@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-    ruby tests.rb
+    ruby main.rb
 
 ### Done!
 
